@@ -10,3 +10,16 @@ This README will refine your skills as being a modern technical communication wr
 5) Use a Markup language
 6) As Etter Suggested use a markdown editor
 7) Use an online editior , easily avialble  we can also use 
+
+
+
+
+## Authors and Acknowledgements
+
+Nabeel Saeed -> Author
+
+Kurt Hanel -> Group Mates
+
+Matt Cameron -> Group Mates
+
+Ronghan Wang -> Group Mates
