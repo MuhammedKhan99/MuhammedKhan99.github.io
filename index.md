@@ -1,26 +1,25 @@
 ## Nabeel Saeed
+## xyz@gmail.com
+## 25 Paddington Street
 
 
 ### **Education**
 
- | **Bachelor of Computer Science (Honours)** | 2016 -- Present |
- | --- | --- |
+  **Bachelor of Computer Science (Honours)**  2016 -- Present 
 
-University of Manitoba (MB)
+    University of Manitoba (MB)
+ 
+    Expected date of completion: December 2020
 
-Expected date of completion: December 2020
+**Pearson BTEC Level 3 Extended Diploma**  2014 – 2016 
 
- | **Pearson BTEC Level 3 Extended Diploma** | 2014 **–** 2016 |
-| --- | --- |
+    Emirates Aviation University (UAE)
 
-Emirates Aviation University (UAE)
+    Major: Aeronautical Engineering (Electrical)
 
-Major: Aeronautical Engineering (Electrical)
+ **First Diploma in Aeronautical Engineering**  2013 – 2014 
 
-| **First Diploma in Aeronautical Engineering**|  2013 – 2014 |
-| --- | --- |
-
-Emirates Aviation University (UAE)
+    Emirates Aviation University (UAE)
 
 ### **Volunteer Experience**
 
