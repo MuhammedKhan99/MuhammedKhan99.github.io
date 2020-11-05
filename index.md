@@ -33,7 +33,7 @@
 
 University of Manitoba, Winnipeg, MB
 
-Setup the workshop and briefed other volunteers.
+- Setup the workshop and briefed other volunteers.
 
 - Participated in the workshop as a volunteer to raise awareness about the difficulties of poverty and its impact on families facing it.
 
