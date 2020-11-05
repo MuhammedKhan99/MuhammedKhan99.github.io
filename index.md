@@ -1,6 +1,6 @@
 ## Nabeel Saeed
-## xyz@gmail.com
-## 25 Paddington Street
+ ### xyz@gmail.com
+ ### 25 Paddington Street
 
 
 ### **Education**
