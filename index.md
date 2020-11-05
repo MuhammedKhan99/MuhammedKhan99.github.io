@@ -37,7 +37,7 @@ University of Manitoba, Winnipeg, MB
 
 - Participated in the workshop as a volunteer to raise awareness about the difficulties of poverty and its impact on families facing it.
 
-**Orientation&#39;s Game Co-ordinator (Volunteer)**Jan and May 2016
+**Orientation Game Co-ordinator (Volunteer) Jan and May 2016**
 
 ICM (International College of Manitoba), Winnipeg, MB
 
