@@ -36,7 +36,7 @@ The goal of this resume as indicated in the purpose section is to help you into 
 - Open your favorite Mark Down editor and format your resume.
 - Copy and paste your formatted resume to the index.md file like shown in the picture below:
 
-!(Index.md)[Index.jpg]
+![Index.md](Index.jpg)
 
 - 
 
