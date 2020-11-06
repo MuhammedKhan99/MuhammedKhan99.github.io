@@ -54,7 +54,7 @@ The goal of this resume as indicated in the purpose section is to help you into 
 
 
 #### Step 4 End Result
-![Resume](resume.gif)
+![Resume](reusme.gif)
 
 
 ## More Resources
