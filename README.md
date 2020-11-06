@@ -39,9 +39,9 @@ The goal of this resume as indicated in the purpose section is to help you into 
 ![Index.md](Index.JPG)
 
 
-- After following step you would be able to see your resume displayed on your webpage.
+- After following  the step above you would be able to see your resume displayed on your webpage.
 
-##### We are doing this step because Etter in his book _Modern Technical Writing_  
+##### We are doing this step because Etter in his book _Modern Technical Writing_ suggested that using a static website is efficient, portable and most of all very easy.  
 
 #### Step 3 Make a Title and Spice it up :
 
@@ -50,11 +50,13 @@ The goal of this resume as indicated in the purpose section is to help you into 
 - Put a title in the _config.yml file : by typing tittle : YOUR Tittle.
 - Select a theme for your GitHubPages. Follow the GIF below to change your theme.
 
+#### We are doing this setup because the static website that you have generated is using [Jekyll](https://jekyllrb.com/) that helps transform your markdown into a static website. It uses YAML a data serialization language to make your staic website more customizable. That is why we need YAML config file to change the title and the theme of the static website.
+
 ![Change Theme](c.gif)
 
 
 #### Step 4 End Result
-![Resume](reusme.gif)
+![Resume](resume.gif)
 
 
 ## More Resources
@@ -96,4 +98,3 @@ The goal of this resume as indicated in the purpose section is to help you into 
 ** Andrew Etter** -- Author of *Modern Technical Writing*
 
 ** Parker Moore** -- Creator of Cayman Theme.
-
