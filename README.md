@@ -33,14 +33,52 @@ The goal of this resume as indicated in the purpose section is to help you into 
 
 #### Step 2 Display your Resume :
 - Make a file named index.md in your repo.This is going to be the very first page shown on your static website.
-- Open your favorite Mark Down editor and format your resume.
+- Open your favourite Mark Down editor and format your resume.
 - Copy and paste your formatted resume to the index.md file like shown in the picture below:
 
 ![Index.md](Index.JPG)
 
-- 
+
+- After following step you would be able to see your resume displayed on your webpage.
+
+##### We are doing this step because Etter in his book _Modern Technical Writing_  
+
+#### Step 3 Make a Title and Spice it up :
+
+- To create a title you would need to create a yaml configuration file.
+- Add a new file _config.yml.
+- Put a title in the _config.yml file : by typing tittle : YOUR Tittle.
+- Select a theme for your GitHubPages. Follow the GIF below to change your theme.
+
+![Change Theme](c.gif)
+
+
+#### Step 4 End Result
+![Resume](resume.gif)
+
+
+## More Resources
+
+- [Github Starter Guide](https://guides.github.com/activities/hello-world/).
+- [Markdown Tutorial](https://www.markdowntutorial.com/).
+- [_Modern Technical Writing_ by **Andrew Etter**](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+
 
 ## More Steps
+
+- Open NotePad++.
+
+- Goto Plugins and open the dropdown.
+
+- Click on plugins Admin option.
+
+- Search for MarkDown Viewer in the plugin choice window.
+
+- Check the tick mark on MarkDown Viewer++ and click install.
+
+- Press Control+Shift+m to view markdown Viewer++ window just as shown in the picture below.
+
+![Mark Down Editor](plus.JPG)
 
 
 
@@ -58,5 +96,4 @@ The goal of this resume as indicated in the purpose section is to help you into 
 ** Andrew Etter** -- Author of *Modern Technical Writing*
 
 ** Parker Moore** -- Creator of Cayman Theme.
-
 
