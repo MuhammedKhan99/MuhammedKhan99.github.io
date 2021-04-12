@@ -6,6 +6,7 @@ logo: /assets/img/WhiteText.png
 description: A simple app for people who like simple things.
 show_downloads: false
 minimal_mistakes_skin : dark
+masthead_title : "Welcome to List My Courses Webpage"
 remote_theme: mmistakes/minimal-mistakes@4.22.0
 tom_feed:
   path                   : jokesoftheday.net/jokes-feed
