@@ -1,15 +1,11 @@
 plugins: 
 - jekyll-include-cache
 
-title: List My Courses
-logo: /assets/img/BlackText.png
+title: LMC
+logo: /assets/img/WhiteText.png
 description: A simple app for people who like simple things.
 show_downloads: false
 minimal_mistakes_skin : dark
 remote_theme: mmistakes/minimal-mistakes@4.22.0
 
-footer:
-  links:
-    - label: Twitter
-      icon: /assets/img/BlackText.png
 
