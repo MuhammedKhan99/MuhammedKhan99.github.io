@@ -5,6 +5,11 @@ title: List My Courses
 logo: /assets/img/BlackText.png
 description: A simple app for people who like simple things.
 show_downloads: false
-minimal_mistakes_skin : "dirt"
+minimal_mistakes_skin : dark
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "/assets/img/BlackText.png"
 
