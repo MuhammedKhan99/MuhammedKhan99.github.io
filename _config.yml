@@ -5,4 +5,4 @@ title: List My Courses
 logo: /assets/img/BlackText.png
 description: A simple app for people who like simple things.
 show_downloads: false
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
