@@ -8,6 +8,6 @@ show_downloads: false
 minimal_mistakes_skin: dark
 
 tom_feed:
-  path: jokesoftheday.net/jokes-feed
+  path: google.com
 remote_theme: mmistakes/minimal-mistakes@4.22.0
 
