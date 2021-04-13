@@ -1,6 +1,6 @@
 ---
-classes : wide
 
+title : Welcome to ListMyCourses
 ---
 
 ## Our Vision Statement
