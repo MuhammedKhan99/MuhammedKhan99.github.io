@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Account summary"
+title:  "Account summary Feature"
 ---
 
 As a student, I want to see my account summary on the app, so I can manage my budget.
