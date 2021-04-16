@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Account summary Feature(Soon to come!)"
+title:  "Account summary Feature(Comming very Soon!)"
 ---
 
 As a student, I want to see my account summary on the app, so I can manage my budget.
