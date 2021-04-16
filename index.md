@@ -56,6 +56,41 @@ Our Tean got synched with each other by the final iteration, We all did our work
 This velocity graph shows that we over estimated in the first iteration and in the next 2 iterations had to understimate becuase we were delaing with lot of tech debt that came from the first iteration. We decided at the very start of iteration 2 that we would estimate lower and tackle with our tech debt, that is why in iteration 2 our velocity looks like that, In iteration 3 we had to decide to move many features from our current iteration to the futrure iteration due to the lack of time so that is why our graph in iteration 3 looks like that as shown in the picture.
 
 
+## <ins> Contributors </ins>
+
+### Uy, Jin Michael
+
+Skills : **'unit testing, writing system tests, android development**
+
+
+![j](assets/img/jin.PNG)
+
+
+### Yang, Fengqi
+
+Skills : **'Presistance layer expert, writing integration tests, android development**
+
+
+![j](assets/img/feng.PNG)
+
+
+
+### Li, Jintao
+
+Skills : **' Writing integration tests, android development, Unit Tests**
+
+
+![j](assets/img/tao.PNG)
+
+
+
+### Saeed, Nabeel
+
+Skills : **'ANdriod Development, Jeykyll enthusiastic, Presistance layer developer**
+
+
+![j](assets/img/nab.PNG)
+
 
 
 
