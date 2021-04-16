@@ -12,11 +12,7 @@ students a useful tool for planning their courses and tracking their progress in
 their programs, helping them succeed in achieving their educational goals.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zsC37YyPHd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Soon to be added Features:
 
-#### Account summary
-
-**As a student, I want to see my account summary on the app, so I can manage my budget.**
 
 
 
