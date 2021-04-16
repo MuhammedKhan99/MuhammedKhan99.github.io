@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Book list Feature(Comming very Soon!)"
+title:  "Book list Feature(Coming very Soon!)"
 ---
 
 
