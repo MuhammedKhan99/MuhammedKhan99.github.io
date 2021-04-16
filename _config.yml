@@ -9,9 +9,9 @@ minimal_mistakes_skin: dark
 
 footer:
   links:
-     - label: GitLab
-       icon: fab fa-fw fa-gitlab
-       url: https://code.cs.umanitoba.ca/3350-winter-2021-a03/listmycourses-comp3350-a03-group11
+     - label: "GitLab"
+       icon: "fab fa-fw fa-gitlab"
+       url: "https://code.cs.umanitoba.ca/3350-winter-2021-a03/listmycourses-comp3350-a03-group11"
 
  
 remote_theme: mmistakes/minimal-mistakes@4.22.0
