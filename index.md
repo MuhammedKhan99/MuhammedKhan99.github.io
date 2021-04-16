@@ -86,7 +86,7 @@ Skills : **' Writing integration tests, android development, Unit Tests**
 
 ### Saeed, Nabeel
 
-Skills : **'ANdriod Development, Jeykyll enthusiastic, Presistance layer developer**
+Skills : **'Andriod Development, Jeykyll enthusiastic, Presistance layer developer**
 
 
 ![j](assets/img/nab.PNG)
