@@ -7,6 +7,10 @@ description: A simple app for people who like simple things.
 show_downloads: false
 minimal_mistakes_skin: dark
 
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+  hide                   : true # true, false (default)
+
 footer:
   links:
      - label: "GitLab"
